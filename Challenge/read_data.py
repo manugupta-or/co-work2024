@@ -145,6 +145,7 @@ def main():
 
     # Process all instances
     all_instance_data = process_all_instances(args.parent_folder)
+    print('reading files for inpute data' )
 
 
 # Main execution
